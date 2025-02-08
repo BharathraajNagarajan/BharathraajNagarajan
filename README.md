@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! 👋 I'm Bharathraaj Nagarajan
+💡 Data Science Master's Student at University at Buffalo  
+📊 Passionate about AI, Big Data, and Predictive Analytics  
+🚀 Open to collaborations & new opportunities  
 
-<!--
-**BharathraajNagarajan/BharathraajNagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills & Tools:
+- **Programming:** Python, SQL, R  
+- **Data Science:** Machine Learning, Deep Learning, NLP  
+- **Big Data:** Hadoop, Spark, Kafka  
+- **Cloud:** AWS, Azure, GCP  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BharathraajNagarajan-blue?logo=linkedin)](https://www.linkedin.com/in/bharathraaj-nagarajan-898a66195/)  
