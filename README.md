@@ -1,7 +1,7 @@
 ### Hi there!  I'm Bharathraaj Nagarajan
 
 📍 Buffalo, NY | Masters in Data Science @ University at Buffalo  
-👨‍💻 Ex-Big Data AI Developer @ TCS | Actively seeking Full Time Opportunities in Data Science, Machine Learning, or Data Engineering (2025)  
+👨‍💻 Ex-Big Data AI Developer @ Tata Consultancy Services, India | Actively seeking Full Time Opportunities in Data Science, Machine Learning, or Data Engineering (2025)  
 📫 bharathraajnagarajan@gmail.com | [LinkedIn](https://www.linkedin.com/in/bharathraaj-nagarajan-898a66195/)
 
 ---
