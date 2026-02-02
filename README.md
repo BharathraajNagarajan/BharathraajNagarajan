@@ -68,7 +68,7 @@ Currently seeking a **Full Time Opportunities 2025** in:
 📧 [bharathraajnagarajan@gmail.com](mailto:bharathraajnagarajan@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/bharathraaj-nagarajan-898a66195/)  
 💻 [GitHub](https://github.com/BharathraajNagarajan)
-🌐 [Portfolio](https://bharath-portfolio-fawn.vercel.app/)
+🌐 [Portfolio](https://bharath-portfolio-gold.vercel.app/)
 
 
 I’m happy to talk projects, data problems, ideas, or openings!
