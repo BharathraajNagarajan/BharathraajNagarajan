@@ -2,8 +2,8 @@
 
 📍 Los Angeles, CA | Masters in Data Science @ University at Buffalo  
 👨‍💻 Ex-Big Data AI Developer @ Tata Consultancy Services, India | Actively seeking Full Time Opportunities in Data Science, Machine Learning, or Data Engineering (2025)  
-📫 bharathraajnagarajan@gmail.com | [LinkedIn](https://www.linkedin.com/in/bharathraaj-nagarajan-898a66195/)
-
+📫 bharathraajnagarajan@gmail.com | [LinkedIn](https://www.linkedin.com/in/bharathraaj-nagarajan-898a66195/) | [Portfolio](https://bharath-portfolio-gold.vercel.app/)
+ 
 ---
 
 ##  About Me
