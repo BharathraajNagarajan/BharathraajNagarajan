@@ -1,15 +1,21 @@
 ## Bharathraaj Nagarajan
 
-ML infrastructure engineer. I build the systems that train, serve, and monitor models.
+Software Engineer building across backend systems, distributed systems, Agentic AI, ML infrastructure, and LLM systems.
 
-**What I've shipped:**
-- Kubernetes model serving + Spark/Kafka/HBase/Kudu pipelines for 100M+ record datasets at TCS (2.5 years)
-- ARIMA forecasting + anomaly detection pipeline with GitHub Actions CI/CD and Docker at Media Sales Plus
-- CSE Pulse: research data platform for 64 faculty at UB's AI Innovation Lab — multi-source ingestion, Groq/Llama 3.1 classification, OpenShift Kubernetes
+**What I've worked on:**
+- Built and optimized Spark/PySpark, Kafka, HDFS, HBase, and Kudu pipelines processing 100M+ records/day at TCS, with distributed systems, Kubernetes, reliability, and performance engineering work
+- Built Python backend ingestion and transformation pipelines across 10+ multi-tenant datasets at Media Sales Plus, with Docker/GitHub Actions CI/CD and an LLM-powered RAG query service
+- Building CSE Pulse at UB's AI Innovation Lab: Python/FastAPI backend, 12-table MySQL data layer, multi-source ingestion, LangGraph/LLM workflows, and Docker/OpenShift/Kubernetes deployment
 
-**Technical focus:** distributed systems · model serving · data pipelines · MLOps · research tooling
+**Currently building:**
+- LLM Inference & GPU Serving Platform — PyTorch · vLLM · CUDA · Docker · Kubernetes
+- Agentic AI Reliability & Tool Execution Engine — LangGraph · MCP · FastAPI · LLM evaluation & reliability
+- LLM Fine-Tuning & Evaluation — PyTorch · LoRA · QLoRA
 
-**Stack:** Python · Spark · Kafka · Kubernetes · Docker · MLflow · GitHub Actions · HBase/Kudu · SQL · Groq API
+**Technical focus:** Backend Engineering · Distributed Systems · Agentic AI · ML Infrastructure · LLM Inference · Production Reliability
+
+**Stack:** Python · Java · SQL · FastAPI · Spark/PySpark · Kafka · Kubernetes · OpenShift · Docker · AWS · Azure · GCP · LangGraph · PyTorch · vLLM · CUDA · MLflow
 
 MS Data Science, University at Buffalo (GPA 3.9, Dec 2025)
+
 📧 bharathraajnagarajan@gmail.com · [Portfolio](https://bharath-portfolio-gold.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bharathraaj-nagarajan-898a66195/)
